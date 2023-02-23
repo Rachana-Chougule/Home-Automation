@@ -10,9 +10,9 @@ In addition, it saves energy and provides a high level of security and safety. I
 2. It controls the On-Off status of light bulbs and fans in all 4 rooms of a single house, it is secured with Wi-Fi password known to house owners only.      This ensures it security.
 3. Also for the further security, we connected the Google assistant to Gmail Account of house owner. Hence security procedures related to access Gmail        account are also included. So wherever his or her email address is connected to any smart phone that person is accessible to his home from anywhere in      the world.
 4. This circuit will work only when following important three conditions are available.
-   (1) Internet connection to both smart home and user smart phone.
-   (2) Power supply to the smart devices in the home and enough charging to smart phone.
-   (3) Voice command or IFTTT command given by user.
+(1) Internet connection to both smart home and user smart phone.
+(2) Power supply to the smart devices in the home and enough charging to smart phone.
+(3) Voice command or IFTTT command given by user.
 5. This circuit will enable 4 light bulbs.
 
 ### Configure IFTTT:
