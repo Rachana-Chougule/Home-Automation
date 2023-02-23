@@ -17,16 +17,15 @@ In addition, it saves energy and provides a high level of security and safety. I
 
 ### Configure IFTTT:
 
-• First step is creating account on IFTTT. Note: Create account on IFTTT by using same e-mail id which you have used for Adafruit.
-• After account creation, click on My Applets and then select New Applet shown below,
-• After selecting a new applet, we get a new page in which we should click on to This is shown in the
-  below image.
-• Then search for Google Assistant and select it.
-• Now, enter voice phrases which we will use as a command for Google assistant. We can enter any phrase as per our application. As you can see, the phrases entered in the above fields are for making Light ON. For making Light OFF, we have to create another applet with different phrases.
-• Now, we get another page on which we have to click on that option which is used to connect Google Assistant with Adafruit.
-• Then search for Adafruit and select it.
-• After selecting Adafruit, choose action. Now enter what data we need to send to which feed of Adafruit
+1. First step is creating account on IFTTT. Note: Create account on IFTTT by using same e-mail id which you have used for Adafruit.
+2. After account creation, click on My Applets and then select New Applet shown below, After selecting a new applet, we get a new page in which we should click on to "ThiS".
+3. Then search for Google Assistant and select it.
+4. Now, enter voice phrases which we will use as a command for Google assistant. We can enter any phrase as per our application. As you can see, the phrases entered in the above fields are for making Light ON. 
+5. For making Light OFF, we have to create another applet with different phrases.
+6. Now, we get another page on which we have to click on that option which is used to connect Google Assistant with Adafruit.
+7. Then search for Adafruit and select it.
+8. After selecting Adafruit, choose action. Now enter what data we need to send to which feed of Adafruit
 dashboard.
-• Click on Create Action.
+
 
 Read entire report about the project here: https://drive.google.com/file/d/1oUbzrXW5aKT3GdSjMdUW9zwqwH-CifQb/view
